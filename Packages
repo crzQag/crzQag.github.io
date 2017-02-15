@@ -1,7 +1,7 @@
-Package: com.crzQag.konichiwa
+Package: com.crzqag.konichiwa
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: QUANG INDUSTRIES <quangscorpio@gmail.com>
+Maintainer: Quang <quangscorpio@gmail.com>
 Filename: Konichiwa.deb
 Size: 3896
 MD5sum: 24f15b62fb189f38c8a93b565248434b
@@ -9,11 +9,11 @@ SHA1: 3ee4f3c977fe8daafc33813f1c64811cb5ae44eb
 SHA256: 248203785df7ecbd8e07618dfdc5ddc86e626273d6c4516ef98f7704d500951e
 Section: Miscellaneous
 Description: Konichiwa on Springboard launch (or respring 😜)
-Author: QUANG INDUSTRIES <quangscorpio@gmail.com>
+Author: Quang <quangscorpio@gmail.com>
 Name: Konichiwa 10
 
 Package: com.crzqag.ohayoapp
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Quang <quangscorpio@gmail.com>
 Filename: OHAYOAPP.deb
