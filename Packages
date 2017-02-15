@@ -11,3 +11,17 @@ Section: Miscellaneous
 Description: Konichiwa on Springboard launch (or respring 😜)
 Author: QUANG INDUSTRIES <quangscorpio@gmail.com>
 Name: Konichiwa 10
+
+Package: com.crzqag.ohayoapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Quang <quangscorpio@gmail.com>
+Filename: OHAYOAPP.deb
+Size: 3956
+MD5sum: 0e8a5a7cb55c9c6dfc33985c2a1cee00
+SHA1: 5fa8a7a7b92c879f3d885c5c46c3556b9fd5af77
+SHA256: 60beb65e372c34a948fbaf0bf5aa4074770bb0628d409fc1f83ffdf074648341
+Section: Miscellaneous
+Description: OHAYO on App launch 😁
+Author: Quang <quangscorpio@gmail.com>
+Name: Ohayo App 10
