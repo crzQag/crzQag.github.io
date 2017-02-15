@@ -17,10 +17,10 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Quang <quangscorpio@gmail.com>
 Filename: OHAYOAPP.deb
-Size: 3956
-MD5sum: 0e8a5a7cb55c9c6dfc33985c2a1cee00
-SHA1: 5fa8a7a7b92c879f3d885c5c46c3556b9fd5af77
-SHA256: 60beb65e372c34a948fbaf0bf5aa4074770bb0628d409fc1f83ffdf074648341
+Size: 3896
+MD5sum: 24F15B62FB189F38C8A93B565248434B
+SHA1: 3ee4f3c977fe8daafc33813f1c64811cb5ae44eb
+SHA256: 248203785DF7ECBD8E07618DFDC5DDC86E626273D6C4516EF98F7704D500951E
 Section: Miscellaneous
 Description: OHAYO on App launch 😁
 Author: Quang <quangscorpio@gmail.com>
