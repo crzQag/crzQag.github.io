@@ -1,27 +1,13 @@
-Package: com.crzQag.konichiwa
-Version: 0.0.1
+Package: com.crzqag.receiptkiller
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Quang <quangscorpio@gmail.com>
-Filename: Konichiwa.deb
-Size: 3896
-MD5sum: 24f15b62fb189f38c8a93b565248434b
-SHA1: 3ee4f3c977fe8daafc33813f1c64811cb5ae44eb
-SHA256: 248203785df7ecbd8e07618dfdc5ddc86e626273d6c4516ef98f7704d500951e
-Section: Miscellaneous
-Description: Konichiwa on Springboard launch (or respring 😜)
+Filename: ReceiptKiller.deb
+Size: 18088
+MD5sum: dd5356a186b56e465f1bb5c772dd9d85
+SHA1: ddac86357e84ce860934418aaa068aabf2385518
+SHA256: c0449714ceb7d4973a949c7282e960f492b4307ff96e174b804fb64b477821ae
+Section: Messenger
+Description: Disable read receipt in Messenger App 😚. Use with caution. 
 Author: Quang <quangscorpio@gmail.com>
-Name: Konichiwa 10
-
-Package: com.crzqag.ohayoapp
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Quang <quangscorpio@gmail.com>
-Filename: OHAYOAPP.deb
-Size: 3962
-MD5sum: 957ff993ef92b85633f3373ce86e44df
-SHA1: 02ac54b39be8392da78bd794b7f620906718d77d
-SHA256: 628de0eb2989aaf8526685af9481a43aaa7b63cb922da0aa7c875a52571f14e7
-Section: Miscellaneous
-Description: OHAYO on App launch 😁
-Author: Quang <quangscorpio@gmail.com>
-Name: Ohayo App 10
+Name: Receipt Killer 10
