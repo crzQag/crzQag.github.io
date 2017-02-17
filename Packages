@@ -1,0 +1,13 @@
+Package: com.crzqag.receiptkiller
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Quang <quangscorpio@gmail.com>
+Filename: ReceiptKiller.deb
+Size: 3962
+MD5sum: 027a710515ee61870329594e299ebed4
+SHA1: 4396ab5d50eea6f78d6b27b932d0352b4118a87a
+SHA256: 62f20b3f8e772a7392129b430010380748d8d29298342a83f46bac94728e9475
+Section: Messenger
+Description: Disable read receipt in Messenger App 😚. Use with caution. 
+Author: Quang <quangscorpio@gmail.com>
+Name: Receipt Killer 10
